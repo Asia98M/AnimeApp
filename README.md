@@ -40,9 +40,6 @@ In the next semester, we plan to expand this project further. Our goal is to dev
 ### Video Tutorial
 For a detailed walkthrough on how to add a new anime to the list, check out our video below.
 
-## Contributions
-We welcome contributions to improve the app. Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
-
 ## Authors
 - Asia Marti
 - Dominique Saner
