@@ -32,10 +32,13 @@ In the next semester, we plan to expand this project further. Our goal is to dev
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the application in the terminal:
+4. Run the application:
    ```bash
    streamlit run main.py
    ```
+
+### Video Tutorial
+For a detailed walkthrough on how to add a new anime to the list, check out our video tutorial in the source folder.
 
 ## Contributions
 We welcome contributions to improve the app. Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
@@ -46,4 +49,9 @@ We welcome contributions to improve the app. Feel free to fork the repository an
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+
+
+https://github.com/user-attachments/assets/020cb4e4-e50a-4a45-a880-c3b356259c0b
 
