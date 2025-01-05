@@ -32,9 +32,9 @@ In the next semester, we plan to expand this project further. Our goal is to dev
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the application:
+4. Run the application in the terminal:
    ```bash
-   python main.py
+   streamlit run main.py
    ```
 
 ## Contributions
