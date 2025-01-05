@@ -9,7 +9,7 @@ During our Python class, we were tasked with selecting a topic for our project. 
 ## Challenges
 Initially, we attempted to fetch data from the MyAnimeList API. To do so, we had to create an account and request access to the API. However, during implementation, we encountered issues with data accuracy and integration. The inputs retrieved from the API were not as reliable as we had hoped.
 
-To address this, we decided to pivot and created a base CSV file containing at least 20 anime entries. This allowed us to build a more controlled and customizable dataset. The code in the `source` folder reflects this new approach, which has proven to work best for us so far. Additionally, the app allows users to add their own entries to the dataset if any anime titles are missing.
+To address this, we decided to pivot and created a base CSV file containing at least 10 anime entries. This allowed us to build a more controlled and customizable dataset. The code in the `source` folder reflects this new approach, which has proven to work best for us so far. Additionally, the app allows users to add their own entries to the dataset if any anime titles are missing.
 
 ## Features
 - Preloaded dataset of anime recommendations.
